@@ -16,7 +16,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=thaishdz&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
+
 Debería generarse random pero la página de donde obtenía los memes falleció, paz descanse ✞
+
 ![image](https://github.com/user-attachments/assets/aad5386d-b398-4a78-a1fe-1bdd54605437)
 
 
