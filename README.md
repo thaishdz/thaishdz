@@ -16,7 +16,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=thaishdz&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+Debería generarse random pero la página de donde obtenía los memes falleció, paz descanse ✞
+![image](https://github.com/user-attachments/assets/aad5386d-b398-4a78-a1fe-1bdd54605437)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thaishdz&icon=0&color=0)](https://visitcount.itsvg.in)
