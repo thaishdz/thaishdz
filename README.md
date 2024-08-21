@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Declarando as a Backend Developer (PHP)<br>🌱 I’m currently learning to become API Developer (Python)
+🔭 I’m currently unemployed 😿 <br>🌱 But ... I am training to be an API Developer and `PHP/Python` Expert 😸
 
 
 ## 🌐 Socials:
