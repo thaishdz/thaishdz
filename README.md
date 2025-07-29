@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently unemployed 😿 <br>🌱 But ... I am developing a web app to track game achievements!
+🔭 I’m currently unemployed 😿 <br>🌱 But ... I am developing a web app to track game achievements! 😺
 
 
 ## 🌐 Socials:
