@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently unemployed 😿 <br>🌱 But ... I am training to be an Machine Learning Expert! (someday ... somehow)
+🔭 I’m currently unemployed 😿 <br>🌱 But ... I am developing a web app to track game achievements!
 
 
 ## 🌐 Socials:
