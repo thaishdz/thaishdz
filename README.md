@@ -35,6 +35,5 @@
 ## GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thaishdz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaishdz&layout=compact&hide_border=true" alt="Top languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thaishdz&show_icons=true&hide_border=true" alt="GitHub stats">
 </p>
