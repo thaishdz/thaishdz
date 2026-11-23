@@ -31,9 +31,3 @@
 | [**Bookslot**](https://github.com/thaishdz/bookslot) | Serverless booking app, infrastructure defined as code | AWS Lambda, API Gateway, DynamoDB, Terraform |
 | [**bajalo**](https://github.com/thaishdz/bajalo) | Terminal UI wrapper around yt-dlp: pick folder and format from a menu instead of remembering flags | Python, yt-dlp, ffmpeg |
 | **Meme search** *(in progress)* | Describe a meme in text, get the image back. My way of learning RAG | Python, embeddings |
-
-## GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thaishdz&show_icons=true&hide_border=true" alt="GitHub stats">
-</p>
