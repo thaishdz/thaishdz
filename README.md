@@ -3,7 +3,6 @@
 <p align="center">
   Backend developer with a DevOps background, now working with AI.<br>
   ~3 years building APIs and web apps.<br>
-  From Spain 🇪🇸 · Feel free to reach out on <a href="https://www.linkedin.com/in/thaishdz/">LinkedIn</a>
 </p>
 
 <p align="center">
