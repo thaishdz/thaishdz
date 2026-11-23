@@ -1,28 +1,40 @@
-# 💫 About Me:
-🔭 I’m currently unemployed 😿 <br>🌱 But ... I'm working on a web app for tracking game achievements 😺
+<h1 align="center">Hi, I'm Thais 👋</h1>
 
+<p align="center">
+  Backend developer with a DevOps background, now working with AI.<br>
+  ~3 years building APIs and web apps.<br>
+  From Spain 🇪🇸 · Feel free to reach out on <a href="https://www.linkedin.com/in/thaishdz/">LinkedIn</a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thaishdz/) 
-
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thaishdz&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thaishdz&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thaishdz&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thaishdz&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-
-Debería generarse random pero la página de donde obtenía los memes falleció, paz descanse ✞
-
-![image](https://github.com/user-attachments/assets/aad5386d-b398-4a78-a1fe-1bdd54605437)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/thaishdz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://thaishdz.github.io/portfolio/projects/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thaishdz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I'm up to
+
+- 💼 Open to work: Backend / Fullstack / DevOps / Cloud / AI roles (remote friendly)
+- 📚 Studying LangChain and building side projects with AI agents, serverless on AWS and Terraform
+
+## ⭐ Featured project: [Trophi](https://github.com/thaishdz/Trophi)
+
+> **Steam achievement tracker.** Log in with Steam OpenID and sync your games and achievements, with a per-user cooldown on syncs.
+>
+> **Stack:** Node, Express, TypeScript, React, MongoDB, Docker Compose
+
+## Other projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Bookslot**](https://github.com/thaishdz/bookslot) | Serverless booking app, infrastructure defined as code | AWS Lambda, API Gateway, DynamoDB, Terraform |
+| [**bajalo**](https://github.com/thaishdz/bajalo) | Terminal UI wrapper around yt-dlp: pick folder and format from a menu instead of remembering flags | Python, yt-dlp, ffmpeg |
+| **Meme search** *(in progress)* | Describe a meme in text, get the image back. My way of learning RAG | Python, embeddings |
+
+## GitHub stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thaishdz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaishdz&layout=compact&hide_border=true" alt="Top languages">
+</p>
